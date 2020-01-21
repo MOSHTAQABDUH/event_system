@@ -1,0 +1,88 @@
+div.container {
+    width: 100%;
+    max-width: 100% !important;
+    padding: 15px;
+}
+
+.dataTables_filter {
+    margin: 0px 10px;
+}
+
+.dt-buttons {
+    margin: 0px 10px;
+}
+
+.btn-export {
+    background: #000000;
+}
+
+.btn-export {
+    -moz-box-shadow: 0px 7px 10px -4px #0b2399;
+    -webkit-box-shadow: 0px 7px 10px -4px #0b2399;
+    box-shadow: 0px 7px 10px -4px #0b2399;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #000000), color-stop(1, #134f96));
+    background: -moz-linear-gradient(top, #000000 5%, #134f96 100%);
+    background: -webkit-linear-gradient(top, #000000 5%, #134f96 100%);
+    background: -o-linear-gradient(top, #000000 5%, #134f96 100%);
+    background: -ms-linear-gradient(top, #000000 5%, #134f96 100%);
+    background: linear-gradient(to bottom, #000000 5%, #134f96 100%);
+    background: linear-gradient(to bottom, #000000 5%, #134f96 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#134f96', GradientType=0);
+    background-color: #000000;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    FONT-SIZE: 12px;
+    /* padding:13px 32px; */
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #546ef0;
+}
+
+.btn-export:hover {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #134f96), color-stop(1, #000000));
+    background: -moz-linear-gradient(top, #134f96 5%, #000000 100%);
+    background: -webkit-linear-gradient(top, #134f96 5%, #000000 100%);
+    background: -o-linear-gradient(top, #134f96 5%, #000000 100%);
+    background: -ms-linear-gradient(top, #134f96 5%, #000000 100%);
+    background: linear-gradient(to bottom, #134f96 5%, #000000 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#134f96', endColorstr='#000000', GradientType=0);
+    background-color: #134f96;
+    color: #ccc;
+}
+
+.btn-export:active {
+    position: relative;
+    top: 1px;
+}
+
+.dt-button-collection.dropdown-menu {
+    background: #babfc5;
+}
+
+.dt-button-collection.dropdown-menu>.active>a,
+.dropdown-menu>.active>a:hover,
+.dropdown-menu>.active>a:focus {
+    background: linear-gradient(to bottom, #695200 5%, #c3ac00 100%);
+    margin-bottom: 2px;
+}
+table #RestrictionBody td, tbody#RestrictionBody tr, table #RestrictionBody input{
+    padding:0px;
+    border: 0px;
+    margin: 0px;
+    height: 20px;
+}
+#RestrictionBody tr:nth-of-type(odd) input{
+    background: #fbfbfb !important;
+}
+.footer1 {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}

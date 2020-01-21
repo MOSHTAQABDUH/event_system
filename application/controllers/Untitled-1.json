@@ -1,0 +1,146 @@
+[{
+    "ar": {
+        "string": {
+            "language": "English",
+            "home": "الرئيسية",
+            "title": "مؤشرات الأداء",
+            "name": "مؤشرات الأداء",
+            "logo": "resources/images/kpi.png",
+            "service": "تطوير - إستشارات",
+            "exit": "خروج",
+            "url": "URL"
+        },
+        "menu": {
+            "0": {
+                "page_link": "https://kpi.com.sa/?mobile_App=true",
+                "image_link": "resources/rtl/menu.png",
+                "title": "الرئيسية"
+            },
+            "1": {
+                "page_link": "https://kpi.com.sa/about/?mobile_App=true",
+                "image_link": "resources/rtl/company.png",
+                "title": "الشركة"
+            },
+            "2": {
+                "page_link": "https://kpi.com.sa/news/?mobile_App=true",
+                "image_link": "resources/rtl/news.png",
+                "title": "الاخبار"
+            },
+            "3": {
+                "page_link": "https://kpi.com.sa/services/?mobile_App=true",
+                "image_link": "resources/rtl/services.png",
+                "title": "الخدمات"
+            },
+            "4": {
+                "page_link": "https://kpi.com.sa/projects/?mobile_App=true",
+                "image_link": "resources/rtl/projects.png",
+                "title": "المشاريع"
+            },
+            "5": {
+                "page_link": "https://kpi.com.sa/blog/?mobile_App=true",
+                "image_link": "resources/rtl/blog.png",
+                "title": "المدونة"
+            },
+            "6": {
+                "page_link": "https://kpi.com.sa/social-media-posts/?mobile_App=true",
+                "image_link": "resources/rtl/sm.png",
+                "title": "التواصل الاجتماعى"
+            },
+            "7": {
+                "page_link": "https://kpi.com.sa/strategic-friends/?mobile_App=true",
+                "image_link": "resources/rtl/sm.png",
+                "title": "أصدقاء الاستراتيجية"
+            },
+            "8": {
+                "page_link": "https://kpi.com.sa/اتصل-بنا/?mobile_App=true",
+                "image_link": "resources/rtl/contact.png",
+                "title": "اتصل بنا"
+            }
+        },
+        "drawer": {
+            "0": {
+                "icon": "chessQueen",
+                "text": "التخطيط الاستراتيج",
+                "page": "https://kpis.kpi.com.sa/"
+            },
+            "1": {
+                "icon": "networkWired",
+                "text": "إدارة المشاريع",
+                "page": "https://pmp.kpi.com.sa/admin/"
+            }
+        }
+    },
+    "en": {
+        "string": {
+            "language": "العربية",
+            "title": "KPI",
+            "home": "Home",
+            "name": "MOASHIRAT ALADA",
+            "logo": "resources/images/kpi.png",
+            "service": "Consulting - Development",
+            "exit": "Exit",
+            "url": "URL"
+        },
+        "menu": {
+            "0": {
+                "page_link": "https://kpi.com.sa/?lang=en",
+                "image_link": "resources/ltr/menu.png",
+                "title": "menu"
+            },
+            "1": {
+                "page_link": "https://kpi.com.sa/about/?lang=en&mobile_App=true",
+                "image_link": "resources/ltr/company.png",
+                "title": "company"
+            },
+            "2": {
+                "page_link": "https://kpi.com.sa/news/?mobile_App=true",
+                "image_link": "resources/ltr/news.png",
+                "title": "news"
+            },
+            "3": {
+                "page_link": "https://kpi.com.sa/services/?lang=en&mobile_App=true",
+                "image_link": "resources/ltr/services.png",
+                "title": "services"
+            },
+            "4": {
+                "page_link": "https://kpi.com.sa/projects/?lang=en&mobile_App=true",
+                "image_link": "resources/ltr/projects.png",
+                "title": "protofile"
+            },
+            "5": {
+                "page_link": "https://kpi.com.sa/blog/?mobile_App=true",
+                "image_link": "resources/ltr/blog.png",
+                "title": "blog"
+            },
+            "6": {
+                "page_link": "https://kpi.com.sa/strategic-friends/?lang=en&mobile_App=true",
+                "image_link": "resources/ltr/sm.png",
+                "title": "contact us"
+            },
+            "7": {
+                "page_link": "https://kpi.com.sa/social-media-posts/?lang=en&mobile_App=true",
+                "image_link": "resources/ltr/sm.png",
+                "title": "social media"
+            },
+            "8": {
+                "page_link": "https://kpi.com.sa/contact-us/?lang=en&mobile_App=true",
+                "image_link": "resources/ltr/contact.png",
+                "title": "contact us"
+            }
+        },
+        "drawer": {
+            "0": {
+                "icon": "chessQueen",
+                "text": "Strategy",
+                "page": "https://kpis.kpi.com.sa/",
+                "type": "0"
+            },
+            "1": {
+                "icon": "networkWired",
+                "text": "PMP & CRM",
+                "page": "https://pmp.kpi.com.sa/admin/",
+                "type": "0"
+            }
+        }
+    }
+}]
